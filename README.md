@@ -19,5 +19,5 @@ Para abrir el proyecto en un navegador, ejecutar el comando
 ng serve --open
 
 
-![Alt text](https://github.com/JAreina/Angular2-ServiceHTTP-API-NASA/blob/master/nasa/assets/Captura de pantalla_2017-08-17_22-34-49.png)
+![Alt text](https://github.com/JAreina/Angular2-ServiceHTTP-API-NASA/blob/master/2017-08-17_22-34-49.png)
 
