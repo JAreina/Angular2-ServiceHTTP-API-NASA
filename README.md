@@ -7,11 +7,13 @@ Ejemplo de Servicio HTTP  a un API pública con Angular 2
    https://api.nasa.gov/index.html#apply-for-an-api-key
 
 
-   La llave que te asignen debes asignarla al atributo API_KEY 
-   en la carpeta de servicios, en el archivo fotodiaria.service.ts
+   La llave que te asignen debes colocarla en el atributo API_KEY 
+   del archivo fotodiaria.service.ts, en la carpeta servicios.
 
-2- Localizar el archivo angular-cli.json y hacerlo oculto, colocando un punto delante de su nombre
-   Debe quedar así : .angular-cli.json
+2- Localizar el archivo "angular-cli.json" y hacerlo oculto, (al subir el proyecto a GitHub este archivo se había perdido) 
+   colocando un punto delante de su nombre.
+   
+   Debe quedar así --->  .angular-cli.json
 
 3- Sólo resta abrir un terminal en el proyecto y ejecutar el comando 
 
