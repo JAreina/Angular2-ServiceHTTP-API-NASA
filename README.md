@@ -14,17 +14,12 @@
      del archivo fotodiaria.service.ts, en la carpeta servicios.
 
 # 2 
-   Localizar el archivo "angular-cli.json" y hacerlo oculto, (al subir el proyecto a GitHub este archivo se había perdido) 
-   colocando un punto delante de su nombre.
-   
-      Debe quedar así --->  .angular-cli.json
-
-# 3 
+    
    Sólo resta abrir un terminal en el proyecto y ejecutar el comando 
 
         npm install
 
-# 4 
+# 3 
    Para abrir el proyecto en un navegador, ejecutar el comando
 
         ng serve --open
